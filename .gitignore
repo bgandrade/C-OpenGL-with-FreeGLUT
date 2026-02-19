@@ -1,0 +1,29 @@
+# Build output
+/build/
+
+# Generic C/C++ compilation artifacts
+*.o
+*.obj
+*.lo
+*.la
+*.d
+*.gcno
+*.gcda
+*.gcov
+
+# Binaries and debug symbols
+*.exe
+*.out
+*.app
+*.pdb
+*.idb
+*.ilk
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS-specific
+.DS_Store
+Thumbs.db
